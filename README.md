@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mendozar7967
-- 👀 I’m interested in learning css and javascript to land launch my web development career.
+- 👀 I’m interested in learning javascript to launch my web development career.
 - 🌱 I’m currently participating in the #100Devs full-stack bootcamp.
 - 📫 How to reach me at mendozar7967@gmail.com
 
